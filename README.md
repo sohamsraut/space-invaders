@@ -44,10 +44,6 @@ and run the game using the following command in the terminal:
 python invaders.py
 ```
 
-    Run the game:
-
-python space_invaders.py
-
 ## Credits
 
 Created by Soham Raut. Inspired by the original Space Invaders game. Feel free to use and modify this code for personal or educational purposes.
